@@ -1,4 +1,4 @@
-# projeto-ia
+# Handwriting Recognition AI
 
 > Reconhecimento de caracteres manuscritos em tempo real usando uma rede neural convolucional treinada em TensorFlow. Projeto final da matéria de Inteligência Artificial.
 
